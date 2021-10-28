@@ -10,6 +10,8 @@ There are a lot of great (and cheap) deployment options. One of the best is Verc
 
 The Vercel platform was built by creators of Next.js so it’s bound to be good.
 
+https://lab-41-front-end.vercel.app/
+
 Credits:
 
 Kassie Bradshaw
